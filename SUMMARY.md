@@ -36,4 +36,10 @@
   * [课时27 探索与利用](5-sou-suo-guang-gao-yu-guang-gao-wang-luo-demand-ji-zhu/ke-shi-27-tan-suo-yu-li-yong.md)
   * [课时28 搜索广告](5-sou-suo-guang-gao-yu-guang-gao-wang-luo-demand-ji-zhu/ke-shi-28-sou-suo-guang-gao.md)
   * [课时29 流式计算平台](5-sou-suo-guang-gao-yu-guang-gao-wang-luo-demand-ji-zhu/ke-shi-29-liu-shi-ji-suan-ping-tai.md)
+  * [课时30 广告购买平台](5-sou-suo-guang-gao-yu-guang-gao-wang-luo-demand-ji-zhu/ke-shi-30-guang-gao-gou-mai-ping-tai.md)
+* [6 广告交易市场](6-guang-gao-jiao-yi-shi-chang.md)
+  * [课时31 广告交易市场](6-guang-gao-jiao-yi-shi-chang/ke-shi-31-guang-gao-jiao-yi-shi-chang.md)
+  * [课时32 实时竞价](6-guang-gao-jiao-yi-shi-chang/ke-shi-32-shi-shi-jing-jia.md)
+  * [课时33 Cookie Mapping](6-guang-gao-jiao-yi-shi-chang/ke-shi-33-cookie-mapping.md)
+  * [课时34 Supply Side Platform](6-guang-gao-jiao-yi-shi-chang/ke-shi-34-supply-side-platform.md)
 
