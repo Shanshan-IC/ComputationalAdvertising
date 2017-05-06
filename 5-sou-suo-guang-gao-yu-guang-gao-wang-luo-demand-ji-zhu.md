@@ -1,2 +1,2 @@
-在Storm中，一个实时应用的计算任务被打包作为Topology发布，这同Hadoop的MapReduce任务相似。流式计算是调度数据的，而Hadoop核心是调度计算
+
 
