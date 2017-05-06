@@ -26,6 +26,7 @@
 * [4 竞价广告](4-jing-jia-guang-gao.md)
   * [课时19 位置拍卖理论](4-jing-jia-guang-gao/toma.md)
   * [课时20 广告网络概念](4-jing-jia-guang-gao/ke-shi-20-guang-gao-wang-luo-gai-nian.md)
+  * [课时21    广告检索](4-jing-jia-guang-gao/ke-shi-21-guang-gao-jian-suo.md)
 * [课时19 位置拍卖理论](ke-shi-19-wei-zhi-pai-mai-li-lun.md)
 * [课时19 位置拍卖理论](ke-shi-19-wei-zhi-pai-mai-li-lun.md)
 * 课时20 广告网络概念
