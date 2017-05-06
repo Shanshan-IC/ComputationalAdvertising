@@ -45,6 +45,7 @@
   * [课时35 Demand Side Platform](6-guang-gao-jiao-yi-shi-chang/ke-shi-35-demand-side-platform.md)
   * [课时36 DSP流量预测](6-guang-gao-jiao-yi-shi-chang/ke-shi-36-dsp-liu-liang-yu-ce.md)
   * [课时37 DSP点击价值估计](6-guang-gao-jiao-yi-shi-chang/ke-shi-37-dsp-dian-ji-jia-zhi-gu-ji.md)
+  * [课时38 DSP重定向](6-guang-gao-jiao-yi-shi-chang/ke-shi-38-dsp-zhong-ding-xiang.md)
   * [课时39 需求端推荐方法](6-guang-gao-jiao-yi-shi-chang/ke-shi-39-xu-qiu-duan-tui-jian-fang-fa.md)
-  * [课时40 广告流量交易方式](6-guang-gao-jiao-yi-shi-chang/ke-shi-40-guang-gao-liu-liang-jiao-yi-fang-shi.md)
+  * 课时38 DSP重定向
 
