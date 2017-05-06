@@ -27,7 +27,7 @@
   * [课时19 位置拍卖理论](4-jing-jia-guang-gao/toma.md)
   * [课时20 广告网络概念](4-jing-jia-guang-gao/ke-shi-20-guang-gao-wang-luo-gai-nian.md)
   * [课时21    广告检索](4-jing-jia-guang-gao/ke-shi-21-guang-gao-jian-suo.md)
-* [课时19 位置拍卖理论](ke-shi-19-wei-zhi-pai-mai-li-lun.md)
-* [课时19 位置拍卖理论](ke-shi-19-wei-zhi-pai-mai-li-lun.md)
-* 课时20 广告网络概念
+  * [课时22    流量预测](4-jing-jia-guang-gao/ke-shi-22-liu-liang-yu-ce.md)
+  * [课时23    ZooKeeper 介绍](4-jing-jia-guang-gao/ke-shi-23-zookeeper-jie-shao.md)
+  * 课时24 点击率预测和逻辑回归
 
