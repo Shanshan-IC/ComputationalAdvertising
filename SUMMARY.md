@@ -19,7 +19,7 @@
   * [课时13 Hadoop简介](2-he-yue-guang-gao/ke-shi-13-hadoop-jian-jie.md)
 * [3 受众定向](3-shou-zhong-ding-xiang.md)
   * [课时14 受众定向的概念](3-shou-zhong-ding-xiang/ke-shi-14-shou-zhong-ding-xiang-de-gai-nian.md)
-  * 课时15 行为定向
+  * [课时15 行为定向](3-shou-zhong-ding-xiang/ke-shi-15-xing-wei-ding-xiang.md)
   * [课时16 上下文定向](3-shou-zhong-ding-xiang/ke-shi-16-shang-xia-wen-ding-xiang.md)
   * [课时17 Topic Model](3-shou-zhong-ding-xiang/ke-shi-17-topic-model.md)
   * [课时18 数据加工和交易](ke-shi-18-shu-ju-jia-gong-he-jiao-yi.md)
