@@ -30,4 +30,10 @@
   * [课时22    流量预测](4-jing-jia-guang-gao/ke-shi-22-liu-liang-yu-ce.md)
   * [课时23    ZooKeeper 介绍](4-jing-jia-guang-gao/ke-shi-23-zookeeper-jie-shao.md)
   * [课时24 点击率预测和逻辑回归](4-jing-jia-guang-gao/ke-shi-24-dian-ji-lv-yu-ce-he-luo-ji-hui-gui.md)
+  * [课时25 逻辑回归优化方法介绍](4-jing-jia-guang-gao/ke-shi-25-luo-ji-hui-gui-you-hua-fang-fa-jie-shao.md)
+  * [课时26 动态特征](4-jing-jia-guang-gao/ke-shi-25-dong-tai-te-zheng.md)
+* [5 搜索广告与广告网络Demand技术](5-sou-suo-guang-gao-yu-guang-gao-wang-luo-demand-ji-zhu.md)
+  * 课时27 探索与利用
+  * [课时28 搜索广告](5-sou-suo-guang-gao-yu-guang-gao-wang-luo-demand-ji-zhu/ke-shi-28-sou-suo-guang-gao.md)
+  * 课时29 流式计算平台
 
