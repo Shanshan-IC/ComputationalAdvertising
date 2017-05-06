@@ -29,5 +29,5 @@
   * [课时21    广告检索](4-jing-jia-guang-gao/ke-shi-21-guang-gao-jian-suo.md)
   * [课时22    流量预测](4-jing-jia-guang-gao/ke-shi-22-liu-liang-yu-ce.md)
   * [课时23    ZooKeeper 介绍](4-jing-jia-guang-gao/ke-shi-23-zookeeper-jie-shao.md)
-  * 课时24 点击率预测和逻辑回归
+  * [课时24 点击率预测和逻辑回归](4-jing-jia-guang-gao/ke-shi-24-dian-ji-lv-yu-ce-he-luo-ji-hui-gui.md)
 
