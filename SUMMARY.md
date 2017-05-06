@@ -18,5 +18,15 @@
   * [课时12 在线分配问题](2-he-yue-guang-gao/ke-shi-12-zai-xian-fen-pei-wen-ti.md)
   * [课时13 Hadoop简介](2-he-yue-guang-gao/ke-shi-13-hadoop-jian-jie.md)
 * [3 受众定向](3-shou-zhong-ding-xiang.md)
-  * 课时14 受众定向的概念
+  * [课时14 受众定向的概念](3-shou-zhong-ding-xiang/ke-shi-14-shou-zhong-ding-xiang-de-gai-nian.md)
+  * 课时15 行为定向
+  * [课时16 上下文定向](3-shou-zhong-ding-xiang/ke-shi-16-shang-xia-wen-ding-xiang.md)
+  * [课时17 Topic Model](3-shou-zhong-ding-xiang/ke-shi-17-topic-model.md)
+  * [课时18 数据加工和交易](ke-shi-18-shu-ju-jia-gong-he-jiao-yi.md)
+* [4 竞价广告](4-jing-jia-guang-gao.md)
+  * [课时19 位置拍卖理论](4-jing-jia-guang-gao/toma.md)
+  * [课时20 广告网络概念](4-jing-jia-guang-gao/ke-shi-20-guang-gao-wang-luo-gai-nian.md)
+* [课时19 位置拍卖理论](ke-shi-19-wei-zhi-pai-mai-li-lun.md)
+* [课时19 位置拍卖理论](ke-shi-19-wei-zhi-pai-mai-li-lun.md)
+* 课时20 广告网络概念
 
